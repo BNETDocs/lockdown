@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lockdown", "lockdown\lockdown.vcproj", "{5EEE7D82-3FB4-4AF3-9E23-834A97F0F4B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x86-loader", "x86-loader\x86-loader.vcproj", "{E85778B7-1F7C-4B59-BEBC-1ED2A8FEB34E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "seed-finder", "seed-finder\seed-finder.vcproj", "{34314916-D714-454E-9C8F-679FBF469207}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "plugin-screendump", "plugin-screendump\plugin-screendump.vcproj", "{E65908BA-F7C6-40C7-B5F9-B1B79EFBC89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EEE7D82-3FB4-4AF3-9E23-834A97F0F4B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5EEE7D82-3FB4-4AF3-9E23-834A97F0F4B3}.Debug|Win32.Build.0 = Debug|Win32
+		{5EEE7D82-3FB4-4AF3-9E23-834A97F0F4B3}.Release|Win32.ActiveCfg = Release|Win32
+		{5EEE7D82-3FB4-4AF3-9E23-834A97F0F4B3}.Release|Win32.Build.0 = Release|Win32
+		{E85778B7-1F7C-4B59-BEBC-1ED2A8FEB34E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E85778B7-1F7C-4B59-BEBC-1ED2A8FEB34E}.Debug|Win32.Build.0 = Debug|Win32
+		{E85778B7-1F7C-4B59-BEBC-1ED2A8FEB34E}.Release|Win32.ActiveCfg = Release|Win32
+		{E85778B7-1F7C-4B59-BEBC-1ED2A8FEB34E}.Release|Win32.Build.0 = Release|Win32
+		{34314916-D714-454E-9C8F-679FBF469207}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34314916-D714-454E-9C8F-679FBF469207}.Debug|Win32.Build.0 = Debug|Win32
+		{34314916-D714-454E-9C8F-679FBF469207}.Release|Win32.ActiveCfg = Release|Win32
+		{34314916-D714-454E-9C8F-679FBF469207}.Release|Win32.Build.0 = Release|Win32
+		{E65908BA-F7C6-40C7-B5F9-B1B79EFBC89D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E65908BA-F7C6-40C7-B5F9-B1B79EFBC89D}.Debug|Win32.Build.0 = Debug|Win32
+		{E65908BA-F7C6-40C7-B5F9-B1B79EFBC89D}.Release|Win32.ActiveCfg = Release|Win32
+		{E65908BA-F7C6-40C7-B5F9-B1B79EFBC89D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
